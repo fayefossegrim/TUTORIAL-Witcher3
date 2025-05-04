@@ -1,0 +1,38 @@
+Let's HELP YOU with a VIP way to  REPLAY the Witcher 3 for the Ciri Story AND DLCS
+
+
+WITHOUT THE ACTUAL  GRIND and with all the HIDDEN LOOT possible. 
+
+
+My Savefiles contains all of the
+COMPATIBLE !
+NO conflicts !
+4.04 NEXT GEN  mods from Nexus .com !
+
+
+WORK a full DAY, with my tutorial, to access my SAVEFILE and save up ~300 hours of GRINDING, hidden unmarked treasures, hidden quests, locations  etc.
+
+
+First. Do your windows update if you have one !
+UPDATE  all of your  DRIVERS to latest like  graphics card, sound , Bluetooth, system apps from Microsoft store etc.
+
+
+After restart pc, download the latest net framework and redistributables from Microsoft 
+
+https://dotnet.microsoft.com/en-us/download/dotnet-framework 
+https://www.microsoft.com/en-us/download/details.aspx?id=48145
+
+
+Fresh install Steam , then Witcher 3 on THE SECOND Storage aka  D PARTITION !
+
+Mods on the C drive with Windows System causes ERRORS with modding games(cuz security stuff) that's why AVOID this.
+
+
+Follow the folders I created
+
+1, 2, 3, 4 is the order to follow.
+
+( see PICTURES and READ Text files )
+
+
+IF any of this doesn't work for you, game stutter or you lose FPS from mods, errors etc, then BUY the quantum NASA PC  because Witcher 4 is also coming and it will be more advanced than this 10 yr old lovely game.

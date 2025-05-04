@@ -1,0 +1,22 @@
+
+DOWNLOAD Vortex in second / D drive  from your PC  (where your Steam also is installed, i hope) 
+
+
+Left click on the upper text bar and copy the address of the 
+Witcher3.exe LOCATION
+
+
+After downloading Vortex.
+
+- Open it up
+
+- From GAMES section Search and Select Witcher 3 (PICTURE 0)
+
+- FIND  WITCHER 3.EXE location (PICTURE 1)
+
+- Manually set the location of the exe pathway (PICTURE 2)
+
+- CREATE vortex downloaded folder and MODS folder (PICTURE 3)
+
+- How base modding should look (PICTURE 4 and 5)
+

@@ -1,0 +1,147 @@
+AFTER  ALL YOUR PC PREPARATIONS ………
+
+
+WE  ARE GONNA MOD  W3  JUST  WITH  VORTEX APP only! Manual modding always crashes something.
+
+ Yes I have ~ 130 mods. Yes it will take a while. BUT THEN LUXURY W3 EXPERIENCE!
+
+
+ DOWNLOAD mods ONLY FROM FILES TAB ( Vortex Mod Download Button or Manual Download )  
+
+
+Exception (from ModsList.txt) for first part AAA and BBB lists of mods  install by their own page instructions.
+
+Then deploy mods button, after it finishes, close vortex.
+
+
+
+
+After that the CCC section is way easier.
+When available (aka most of the times) DOWNLOAD by Vortex Mods Button AND LET VORTEX do its JOB!!
+
+
+Go through EACH mod 1 by one...
+Download through Vortex
+Next
+Download through Vortex
+next
+
+
+
+---------HOW TO DOWNLOAD THEM MANUALLY--------
+
+
+When you encounter a manual mod with no vortex button download, its simple   but tedious to include them in Vortex list order .
+
+Why? Cuz' you have to RESTART vortex app each time After a Manual Mod Installation. 
+
+All of the Manual Mods Unzipped folders must be put in the D>Vortex Mods > Witcher3 PATH.
+
+
+
+
+SO, installing a manual mode guide :
+
+
+First, deploy mods button, after it finishes, close vortex.
+
+Download manual mod manually, UNZIP file in the same name FOLDER. 
+Then move that UNZIPPED mod Folder in the D > VORTEX MODS > Witcher3 location :)
+
+then OPEN up Vortex AGAIN.
+
+
+U S U A L L Y,  but not always.. a window pop up appears saying if u want to apply changes of the new added mod file. WHICH duuh pres OK / YES
+
+
+
+But if that window doesn't appear, just run the script merger, then the window will be forced to appear, approve the new added MOD then CLOSE  THE Script Manager  BY  PRESSING  X.
+
+
+
+YOU WILL SEE the new manual mode added but with a YELLOW danger triangle next to it. SO, you will have to 
+
+LEFT CLICK > FIX Missing IDS > FIX MISSING IDS a second time, then ENABLE IT.
+
+> Deploy Mods > Ok > Restart Vortex
+
+
+
+Deploy mods again, then continue with the other modes 1 by 1.
+
+----DO NOT use Script  Manager .DO NOT MERGE SCRIPTS  AND  DO NOT FIX CONFLICTS YET. 
+
+
+We will do that ONLY at the END !! For now, just PLAY up Script Manager when the notification for a manual mod  does NOT show up after Vortex restart.
+
+
+
+At the end it should look something like this ( PICTURE 1, 2, 3)
+
+
+And after you finished downloading IN THE SPECIFIC order I've copy pasted,
+RUN Script Manager for the Last Time.
+
+
+-------LETS  FIX SCRIPTS AND CONFLICTS--------
+
+
+RUN  Script Manager. 
+
+You have two sides. One UNMERGED, fuuuuull with text and one blank white  the MERGED part.
+
+CHECK the small upper SCRIPTS check box and press then SELECTED (mods) Merge. 
+
+A small window will appear for every mod, 1 after the other, to confirm the SUCCESFULL merging process.
+
+Just press OK ,, OK,, OK,, OK,, and so on , until all of them finish and the Script Merger Reloads .
+
+
+THERE SHOULD BE ABSOLUTLEY NO PROBLEM here, No merging problems !!!!
+Just OK OK OK OK OK.
+
+ bcz i made sure there is no problematic mod in my list ( like SCAAR OR SmoothCamera mod). if there will be a problem. srry. fuk me if I know how to solve it, im not a professional codder.
+
+
+
+
+AFTER the must be SUCCESFULL merge, you are left with 1 SIMPLE TASK.
+
+Give priority to some annoying textures bcz Script Merger is too afraid to do it itself.
+
+on the NOT-MERGEABLE side, scroll the kilometric texts, the blue pink ones etc until you meet one I red. that is the problem. 
+
+
+Usually its ONLY the HDReworkedProject 1,2,3 that are in red, only those
+need priority. So you have to give priority like this 
+
+( ONLY IF THE TEXT IS RED AND DIFFERENT from the other ones )
+
+HDReworkedProject - priority 1 ( picture HDRP1 and HDRP1-1)
+HDReworkedProject2 - priority 2 ( picture HDRP2 and HDRP2-2)
+HDReworkedProject3 - priority 3 ( picture HDRP3 and HDRP3-3)
+
+
+
+IF  you have another mod who needs priority, usually, MY logic and rule of thumb is to discover what mod is, where is its Load Order place ( ex, 45 99 etc) and put that as a Priority number. 
+
+Otherwise idk , just play around i guess with the rest of the numbers 4 , 5 , 6, 7 :)))
+
+
+GG. After finishing these not mergeable bundels priorities,
+
+ YOU  ARE FINAAALLY DOONE !!!!! HURRAY !  YOU CAN  PLAY.
+
+Open Steam, WHILE having Vortex Open (never close it), press play Witcher, On RedKit Launcher Settings, next to play button, ENABKE MODS.
+
+
+AND YOU ARE  DONE MODDING :) 
+
+
+
+
+
+
+
+
+
