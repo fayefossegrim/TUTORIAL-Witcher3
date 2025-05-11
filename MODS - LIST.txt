@@ -138,18 +138,20 @@ CCC.    MODS   ALL  NEXT  GEN  LOAD  ORDER
 
 ---- Triss stuff ----
 
-47. https://www.nexusmods.com/witcher3/mods/8961 ( BOTH  FILES )
+BOTH  FILES for 47 and 49 MANUAL DOWNLOAD, dlc in dlc game folder and mod in mod game folder
 
-49. https://www.nexusmods.com/witcher3/mods/9287
+47. https://www.nexusmods.com/witcher3/mods/8961 
+
+49. https://www.nexusmods.com/witcher3/mods/5186 ( thinner waist ) 
 
 50. https://www.nexusmods.com/witcher3/mods/8771 ( WHITE )
 
-51. https://www.nexusmods.com/witcher3/mods/871
+51. https://www.nexusmods.com/witcher3/mods/9287
 
-52. https://www.nexusmods.com/witcher3/mods/3920 (JUST MAIN)
+52.https://www.nexusmods.com/witcher3/mods/3915 
+
+54. https://www.nexusmods.com/witcher3/mods/3920 (JUST MAIN)
 legacy main stuff again
-
-54. https://www.nexusmods.com/witcher3/mods/3915
 
 55. https://www.nexusmods.com/witcher3/mods/2681 ( UPDATED ONE )
 
@@ -279,6 +281,8 @@ legacy main stuff again
 
 ---- CIRI stuff ----
 
+108-1. https://www.nexusmods.com/witcher3/mods/5737 (better damage optional)
+
 108. https://www.nexusmods.com/witcher3/mods/2058
 
 109. https://www.nexusmods.com/witcher3/mods/3427 ( WHITE )
@@ -289,31 +293,36 @@ legacy main stuff again
 
 112. https://www.nexusmods.com/witcher3/mods/9675
 
-112-1. https://www.nexusmods.com/witcher3/mods/10118 
-(NILFGAARD ARMOUR, doesn't show on Vortex Load Order)
+113. https://www.nexusmods.com/witcher3/mods/10118 
+
+(use NILFGAARD ARMOUR, doesn't show on Vortex Load Order but if it does, change it to 2nd place on mod loader page)
+
+113-1. https://www.nexusmods.com/witcher3/mods/3415
+
+(use only CIRY SYANNA RED OUTFIT! manual download, extract only modCiriSyannaRed in the game mods folder, also put it 2nd place if it shows up on mod loader page)
 
 
 
 ---- GAME stuff ----
 
-113. https://www.nexusmods.com/witcher3/mods/10257
+114. https://www.nexusmods.com/witcher3/mods/10257
 
-114. https://www.nexusmods.com/witcher3/mods/7821
+115. https://www.nexusmods.com/witcher3/mods/7821
 
-115. https://www.nexusmods.com/witcher3/mods/3539
+116. https://www.nexusmods.com/witcher3/mods/3539
 
-116. https://www.nexusmods.com/witcher3/mods/8324
+117. https://www.nexusmods.com/witcher3/mods/8324
 
-117. https://www.nexusmods.com/witcher3/mods/8320
+118. https://www.nexusmods.com/witcher3/mods/8320
 
-118. https://www.nexusmods.com/witcher3/mods/9757
+119. https://www.nexusmods.com/witcher3/mods/9757
 
-119. https://www.nexusmods.com/witcher3/mods/9745
+120. https://www.nexusmods.com/witcher3/mods/9745
 
 
 
 (AFTER kaer battle) 
-120.https://www.nexusmods.com/witcher3/mods/9563
+121.https://www.nexusmods.com/witcher3/mods/9563
 
 
 
@@ -325,21 +334,21 @@ i've  already corrupted MY SAVEFILE with these ones sadly.
 You cannot use my savefile WITHOUT them  but they are a must have to play so try them at least on another savefile
 
 
-121. https://www.nexusmods.com/witcher3/mods/4670 
+122. https://www.nexusmods.com/witcher3/mods/4670 
 
-122. https://www.nexusmods.com/witcher3/mods/7732
+123. https://www.nexusmods.com/witcher3/mods/7732
 
-123. https://www.nexusmods.com/witcher3/mods/7488
+124. https://www.nexusmods.com/witcher3/mods/7488
 
-124. https://www.nexusmods.com/witcher3/mods/7202
+125. https://www.nexusmods.com/witcher3/mods/7202
 
-125. https://www.nexusmods.com/witcher3/mods/8463
+126. https://www.nexusmods.com/witcher3/mods/8463
 
-126. https://www.nexusmods.com/witcher3/mods/7272
+127. https://www.nexusmods.com/witcher3/mods/7272
 
-127. https://www.nexusmods.com/witcher3/mods/7187
+128. https://www.nexusmods.com/witcher3/mods/7187
 
-128. https://www.nexusmods.com/witcher3/mods/4640
+129. https://www.nexusmods.com/witcher3/mods/4640
 
 
 
@@ -359,6 +368,8 @@ https://www.nexusmods.com/witcher3/mods/5178
 https://www.nexusmods.com/witcher3/mods/4959
 
 https://www.nexusmods.com/witcher3/mods/4958
+
+
 
 
 
